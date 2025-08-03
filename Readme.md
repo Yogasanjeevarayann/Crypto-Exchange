@@ -24,9 +24,11 @@ A modern Android app built with **Kotlin** and **Jetpack Compose**, replicating 
 ![screen_3_light](https://github.com/user-attachments/assets/13367d37-4a11-4356-b870-0420270312c6)
 
 
+<img width="739" height="864" alt="Screenshot 2025-08-03 190449" src="https://github.com/user-attachments/assets/efbb6318-2805-4271-a97b-3ad42f321f48" />
 
 
 1. Clone the repo:
 ```bash
 git clone https://github.com/your-username/crypto-portfolio-app.git
+
 
